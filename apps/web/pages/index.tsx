@@ -27,8 +27,7 @@ export default function Web() {
         </h3>
         <p className="w-474 h-23 font-normal text-base -mt-3 leading-6 text-center flex items-center text-gray-500">
           <Balancer>
-            A simple survey blockchain app to better understand users and
-            communities
+            A simple survey blockchain app to better understand users and communities
           </Balancer>
         </p>
       </section>

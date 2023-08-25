@@ -1,0 +1,25 @@
+ Accounts:
+form-xchange:network: (0) 0x592d1db3d8076404bdd649f45887980b330d9bbb
+form-xchange:network: (1) 0x253cc1b0975d30576bcad78bbf15a698080f131b
+form-xchange:network: (2) 0xf4520adcb04da8736c9c2e50d450b0bc299cdd57
+form-xchange:network: (3) 0xe9570fdcdccb99773bfa91cc1d24c9b57a088e04
+form-xchange:network: (4) 0xa984456e6ebf2451e7f21a5c6e3715bf93c86f5f
+form-xchange:network: (5) 0x0ed169d9953138216b5ba0516126ca3206817ffe
+form-xchange:network: (6) 0x4eef5be0ab3781a9f60fe4e0677c6137dc6cbe57
+form-xchange:network: (7) 0x4379737a6e85ebdc1aac1be5e8b9bba29316dcad
+form-xchange:network: (8) 0xa393bd205143993b52bf15ff68e366caf519e679
+form-xchange:network: (9) 0xbfd717a04800c738f0b8422bc40f7f50b65a5eb6
+form-xchange:network: 
+form-xchange:network: Private Keys:
+form-xchange:network: (0) a36b62cbd7281c4760ed035e752eb0bb952ea3bd4021e1cedc13ca4f3a9ea28d
+form-xchange:network: (1) 9be971d1cbdd5f38c0c1a15dfb18e626e777f37ce5521dea9476b13bf135d561
+form-xchange:network: (2) 415208dd478e54c639c1892217692e8f306c61acd0076a4722d686419115b0a6
+form-xchange:network: (3) bd29487d66f42ab6ebcde7e8f1110df308c795610f9609afd897b24ab5993d30
+form-xchange:network: (4) dfd06299abb3fe2a24e3ad110320ec79f05b9242bfe6f60e3eb5c5d7c53311d5
+form-xchange:network: (5) d5a02228e7ba0fd984fd7e44342513bc674af650cad87f9f7545ca0cb74cc0f9
+form-xchange:network: (6) a5cc4149c0d5850b84a77a42ba87f94664c4f56d2cde2a5e2998926b341bbbda
+form-xchange:network: (7) 237ba48a1ec0d1788bb94c975ce9810d5e182367435168550377c44832b337d6
+form-xchange:network: (8) 16552e2a0125b78696e39a03c50038a1b4f02e8fac21d4d8991f7fbb91b6171b
+form-xchange:network: (9) 38d24e981aa9965d3cfa3840b941b9e7575ac3168f9cc8ba0db9751fc1e501ed
+form-xchange:network: 
+form-xchange:network: Mnemonic: garlic indoor script away please satisfy tiny wheel sweet join swear poet

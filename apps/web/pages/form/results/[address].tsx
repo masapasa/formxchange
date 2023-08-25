@@ -84,7 +84,8 @@ export const getStaticProps: GetStaticProps = async (context) => {
           // @ts-ignore TODO: fix this
           userFeedback: question.feedback.map((feedback) => Number(feedback)),
         };
-      }),
+      }
+      ),
     },
   };
-};
+}
